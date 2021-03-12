@@ -6,6 +6,8 @@
 * Изучаю Java около 1,5 лет.
 * Прохожу обучение на [Job4j](https://job4j.ru/)
 
+-
+
 ![java](https://img.shields.io/badge/Java-%3E%3D7-orange)
 ![spring](https://img.shields.io/badge/Spring-%3E%3D3-green)
 ![hibernate](https://img.shields.io/badge/Hibernate-%3E%3D3-yellow)
