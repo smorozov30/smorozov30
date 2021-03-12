@@ -7,7 +7,6 @@
 * Прохожу обучение на [Job4j](https://job4j.ru/)
 
 -
-
 ![java][https://img.shields.io/badge/Java-%3E%3D4-orange]
 <!--
 **smorozov30/smorozov30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
