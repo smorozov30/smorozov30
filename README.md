@@ -14,7 +14,7 @@
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D5-brightgreen)
 ![travisCI](https://img.shields.io/badge/Travis-CI-green)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smorozov30&hide=contributs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smorozov30&hide=stars,prs,issues,contribs)
 
 
 <!--
