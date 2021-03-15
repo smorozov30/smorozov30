@@ -14,16 +14,16 @@
 
 1. [UrlShortCut](https://github.com/smorozov30/job4j_url_shortcut) 
 * REST-сервис, заменяющий ссылки на код, что обеспечивает безопасность пользователей на сайте, использующем данный сервис. 
-* В проекте применены Spring Boot, Liquibase, JWT, JUnit, TravisCI, JaCoCo
+* В проекте применены Spring Boot (Data JPA, Security, Web, Test), Liquibase, JWT, JUnit, TravisCI, JaCoCo
 2. [chat_rest](https://github.com/smorozov30/job4j_chat_rest)
 * REST-сервис, реализующий чат c комнатами. 
-* В проекте применены Spring Boot, Liquibase, JWT, JUnit, TravisCI, JaCoCo
+* В проекте применены Spring Boot (Data JPA, Security, Web, Test), Liquibase, JWT, JUnit, TravisCI, JaCoCo
 3. [Обучающий проект на REST](https://github.com/smorozov30/job4j_restful)
 * Классический форум. 
-* В проекте применены Spring Boot, Liquibase, JUnit, TravisCI, JaCoCo
+* В проекте применены Spring Boot (Data JPA, Security, Web, Test), Liquibase, JUnit, TravisCI, JaCoCo
 4. [forum на Heroku](https://github.com/smorozov30/job4j_forum)
 * Классический форум. 
-* В проекте применены Spring Boot, Liquibase, JUnit, TravisCI, JaCoCo
+* В проекте применены Spring Boot (Data JPA, Security, Web, Test), Liquibase, JUnit, TravisCI, JaCoCo
 5. [car_accident](https://github.com/smorozov30/job4j_car_accident)
 * Приложение для отслеживания ДТП.
 * В проекте применены Spring (WebMVC, Data, JDBC, ORM, Security), Hibernate, PostgreSQL, Liquibase, JUnit, log4j, TravisCI, JaCoCo
