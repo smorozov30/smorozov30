@@ -1,10 +1,5 @@
 ### Привет, меня зовут Сергей! Добро пожаловать! 👋
 
-#### Обо мне:
-
-* Мне 30.
-* Живу в Астрахани
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smorozov30&hide=stars,prs,issues,contribs&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smorozov30&layout=compact)
 
